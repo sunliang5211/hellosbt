@@ -9,6 +9,7 @@ object HelloWorld {
     println("hello sunliang")
     println("hello yanyitong")
     println("hello world")
+    println("hello world")
   }
 
 }
